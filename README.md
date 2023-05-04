@@ -1,6 +1,4 @@
-# Homework 10
-
-## Dijkstra's Algorithm
+# Dijkstra's Algorithm
 
 In this problem you will implement Dijkstra's algorithm to find shortest paths between pairs of cities on a map. We are providing a GUI that lets you visualize the map and the path your algorithm finds between two cities.
 
