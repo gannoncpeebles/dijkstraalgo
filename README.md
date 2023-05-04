@@ -1,5 +1,4 @@
 # Homework 10
-Please remember that to submit the assignment you will need to click on the Education drop down menu and select assignment complete.   
 
 ## Dijkstra's Algorithm
 
